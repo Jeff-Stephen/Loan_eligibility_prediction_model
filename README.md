@@ -7,7 +7,7 @@ This project aims to predict the eligibility of applicants for home loans using 
 
 ## Project Structure
 The project is structured as follows:
-- `data`: Contains the dataset used for training and testing.
+- `Loan_data.csv`: Contains the dataset used for training and testing.
 - `Loan_eligibility_prediction_model`: Contains the entire project including EDA, model and evaluation.
 - `README.md`: Project overview and instructions.
 
